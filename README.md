@@ -5,4 +5,4 @@
   This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.</p>
   <h2>Mock-Up</h2>
   <p>The following animation demonstrates the application functionality:</p><br/>
-  <img src="assets/images/05-third-party-apis-homework-demo.GIF"/>
+  <img src="assets/images/05-third-party-apis-homework-demo.gif"/>
