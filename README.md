@@ -6,3 +6,4 @@
   <h2>Mock-Up</h2>
   <p>The following animation demonstrates the application functionality:</p><br/>
   <img src="assets/images/05-third-party-apis-homework-demo.gif"/>
+  <h2>Coded by:</h2><p>Tesfalem H. Tegenge</p>
